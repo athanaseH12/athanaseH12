@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athanaseH12
-- 👀 I’m interested in data sciences and machine learning.
-- 🌱 I’m currently learning mathemamatics at AIMS RWANDA
+- 👀 I’m interested in data sciences, Climate Sciences and Business management.
+- 🌱 I’m now developing a research career at ICPAC
 
 <!---
 athanaseH12/athanaseH12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
