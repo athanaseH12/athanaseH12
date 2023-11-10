@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @athanase hafashimana
-- 👀 I’m interested in data sciences, particularly Climate data Sciences and Business analytics.
+- 👀 I’m interested in data sciences, particularly Climate Data Science and Business Analytics.
 - 🌱 I’m now developing my data science career through acamia and research.
 
 <!---
