@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @athanaseH12
-- 👀 I’m interested in data sciences, Climate Sciences and Business management.
-- 🌱 I’m now developing a research career at ICPAC, Nairobi, Kenya
+- 👋 Hi, I’m @athanase hafashimana
+- 👀 I’m interested in data sciences, particularly Climate data Sciences and Business analytics.
+- 🌱 I’m now developing my data science career through acamia and research.
 
 <!---
 athanaseH12/athanaseH12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
